@@ -1,7 +1,7 @@
 # HILORAC Process License v1.0  
 **(Attribution + Non-Commercial License)**  
 Copyright © 2025 Viktor Jamrich Consulting  
-https://vjc.ai/hilorac  
+https://viktorjamrichconsulting.com/hilorac  
 
 ---
 
@@ -26,7 +26,7 @@ If you publish or share materials derived from HILORAC (e.g., blog post, slides,
 please include a brief credit such as:
 
 > “Based on the HILORAC High-Speed, Low-Risk AI-Coding Process  
-> by Viktor Jamrich Consulting – https://vjc.ai/hilorac”
+> by Viktor Jamrich Consulting – https://viktorjamrichconsulting.com/hilorac”
 
 The attribution may appear in a footer, README, or acknowledgements—no prominent placement required.
 
